@@ -17,6 +17,8 @@
 
 ## 2. Creación del Primer Proyecto
 
+Previamente hay que tener instalado Angular.
+
 Para crear y ejecutar una nueva aplicación en Angular desde la terminal:
 
 ```bash
